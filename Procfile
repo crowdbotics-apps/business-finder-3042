@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT business_finder_3042.wsgi:application
